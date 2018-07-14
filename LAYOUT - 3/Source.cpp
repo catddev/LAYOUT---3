@@ -73,8 +73,7 @@ while (true)
 	default:
 		cout << "нет такой задачи" << endl << endl;
 	}
-
-	}
+}
 	system("pause");
 	return 0;
 }
